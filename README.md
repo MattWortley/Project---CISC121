@@ -1,10 +1,11 @@
-# Project---CISC121
-Matthew Wortley - CISC121 Final Project
+## Project---CISC121
+# Matthew Wortley - CISC121 Final Project
 
 Linear Search Visualizer
 
 <img width="2239" height="1285" alt="image" src="https://github.com/user-attachments/assets/6f1500d6-34a3-437d-b555-3d38e85084d1" />
 
+## Pillars of Computational Thinking
 Decomposition: Create a Program that includes a header, explanation, and an input for the user to enter a list of numbers and a target value they want to find. Next, grab the numbers and create an array to check. Go one by one over the list and check whether the target equals the value at each index. Document each step for the user to see what is happening behind the scenes. Finally, create an output that shares each step taken to find the target value and outputs the result. If found, tell the user that it is in the array and the index it was found; if not, tell the user that it is not inside the numbers given. 
 
 Abstraction: Grab user input of numbers and target, perform linear search to see if target value is in the numbers given, output the results and index if found, or if not found, tell the user.
@@ -19,10 +20,17 @@ Plan: Inside a sketch book, I laid out details of how I want to go about this pr
 <img width="1001" height="1169" alt="image" src="https://github.com/user-attachments/assets/0a534402-ffe4-4f90-945d-2731e31c365c" />
 
 
-Steps to Run:
+## Steps to Run:
 1. Give numbers to the designated space with space separation
 2. Give a target value in the designated space
 3. Hit the "Run Linear Search" button
 4. See results below, as well as each step of the search
 ## Hugging Face Link 
+
+https://huggingface.co/spaces/MattWley/LinearSearchVisualizer
+
 ## Author & Acknowledgment
+
+Matthew Wortley
+
+AI was used with the prompts "List of Gradio functions is Python" and "Is it possible to append a String to a list with an index?" to better understand concepts and ideas in the program and project.
