@@ -34,3 +34,7 @@ https://huggingface.co/spaces/MattWley/LinearSearchVisualizer
 Matthew Wortley
 
 AI was used with the prompts "List of Gradio functions is Python" and "Is it possible to append a String to a list with an index?" to better understand concepts and ideas in the program and project.
+
+## Edge Case Test
+
+https://docs.google.com/document/d/1aKt3sCpVZ9n00EIG2olYe1eVkS4rLD5Vb6Z-LF6xQ3s/edit?usp=sharing
